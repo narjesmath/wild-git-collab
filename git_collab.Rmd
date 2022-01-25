@@ -32,7 +32,9 @@ library(tidyverse)
 ### size greater than 1 carat or cut is "Ideal"
 
 
-
+### Hi Narjes!
+subset <- diamonds %>%
+  filter(carat > 1 & cut == "Ideal")
 ```
 
 ## STEP 7: Uh oh, merge conflicts!
