@@ -42,7 +42,7 @@ subset <- diamonds %>%
 
 ```{r break-it-1}
 ### Hi Narjes!  here's my code
-var_1 < 5+5
+var_1 < 53
 ```
 
 ## STEP 11: And even more merge conflicts!
