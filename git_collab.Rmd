@@ -1,0 +1,56 @@
+---
+title: "Git collab"
+author: "Narjes Mathlouthi"
+date: "1/25/2022"
+output: html_document
+---
+---
+title: "Wild git collaboration practice!"
+author: "your names here!"
+date: "1/25/2022"
+output: html_document
+---
+
+```{r setup, include=TRUE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## STEP 5: No merge conflicts!
+
+```{r partner 1}
+### In this code chunk, start with the diamonds dataset (built in to
+### ggplot2 package) and create a plot of price vs. carat (or some other
+### variables of your choice)
+
+
+```
+
+```{r partner 2}
+### In this code chunk, start with the diamonds dataset (built in to
+### ggplot2 package) and create a subset based on filtering, e.g., 
+### size greater than 1 carat or cut is "Ideal"
+
+
+
+```
+
+## STEP 7: Uh oh, merge conflicts!
+
+```{r break-it-1}
+### Both partners - delete this comment, then write some code here
+### to plot, summarize, calculate something simple using the diamonds
+### dataset.
+
+
+```
+
+## STEP 11: And even more merge conflicts!
+
+```{r break-it-2}
+### Both partners - delete this comment, then write some code here
+### to plot, summarize, calculate something simple using the diamonds
+### dataset.
+
+
+```
