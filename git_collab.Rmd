@@ -41,9 +41,9 @@ subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-### Hi Narjes!  here's my code, with new stuff
+### Hi Narjes!  here's my code, with new stuff here
 code <- 1 + 2
-more_code <- 3+4
+more_code <- 3+4+5
 ```
 
 ## STEP 11: And even more merge conflicts!
