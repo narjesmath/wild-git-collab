@@ -41,12 +41,9 @@ subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-### Both partners - delete this comment, then write some code here
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
-top_counts = set.seed(5)
+### Hi Narjes!  here's my code
 
-
+code <- 1 + 2
 ```
 
 ## STEP 11: And even more merge conflicts!
