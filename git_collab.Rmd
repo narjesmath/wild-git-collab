@@ -22,7 +22,8 @@ library(tidyverse)
 ### In this code chunk, start with the diamonds dataset (built in to
 ### ggplot2 package) and create a plot of price vs. carat (or some other
 ### variables of your choice)
-
+diamonds_plot <- ggplot(data = diamonds, aes(x = price, y = carat)) 
+  
 
 ```
 
