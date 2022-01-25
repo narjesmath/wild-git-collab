@@ -43,7 +43,7 @@ subset <- diamonds %>%
 ```{r break-it-1}
 ### Hi Narjes!  here's my code
 
-code <- 1 + 2
+hello <- "Here is my new code"
 ```
 
 ## STEP 11: And even more merge conflicts!
