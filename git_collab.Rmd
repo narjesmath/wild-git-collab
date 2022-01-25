@@ -42,8 +42,7 @@ subset <- diamonds %>%
 
 ```{r break-it-1}
 ### Hi Narjes!  here's my code
-
-hello <- "Here is my new code"
+var_1 < 1+2
 ```
 
 ## STEP 11: And even more merge conflicts!
